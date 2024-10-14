@@ -1,3 +1,3 @@
 # chai-aur-JS
-JavaScript Repo
+JavaScript Repo,
 Contains all my JavaScript Learnings
